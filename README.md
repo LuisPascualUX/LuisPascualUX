@@ -7,7 +7,7 @@ I’m a UX/UI Designer with a passion for creating thoughtful and user-centered 
 - UX research and strategy
 - DesignOps and team workflows
 - Accessibility and inclusive design
-- Systems thinking and design systems
+- Systems thinking and Design systems
 
 ## 🌱 I’m currently learning...
 - Advanced prototyping with Figma
@@ -17,11 +17,12 @@ I’m a UX/UI Designer with a passion for creating thoughtful and user-centered 
 ## 💼 I’m looking for opportunities in...
 - UX/Product Design roles in international teams
 - Projects that blend creativity, technology, and impact
+- Design Systems specialist with AI support
 
 ## 📫 How to reach me...
 - [www.luispascual.es](https://www.luispascual.es)
 - [LinkedIn](https://www.linkedin.com/in/luispascualux)
-- Email: luispascualux@gmail.com
+- Email: luispascual@icloud.com
 
 ## 😄 Pronouns:
 He/Him (Él)
