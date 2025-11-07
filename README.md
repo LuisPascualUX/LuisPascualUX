@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @LuisPascualUX
+# 👋 Hi, I’m LuisPascual
 
 I’m a UX/UI Designer with a passion for creating thoughtful and user-centered digital experiences. I bring together design thinking, visual clarity, and strategic research to craft products that are not only beautiful but purposeful.
 
