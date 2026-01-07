@@ -1,6 +1,6 @@
-# 👋 Hi, I’m LuisPascual
+# 👋 Hi, I’m Luis Pascual
 
-I’m a UX/UI Designer with a passion for creating thoughtful and user-centered digital experiences. I bring together design thinking, visual clarity, and strategic research to craft products that are not only beautiful but purposeful.
+I’m a Digital Product Designer (UX/UI), based on Madrid (Spain), with a passion for creating thoughtful and user-centered experiences. I bring together design thinking, visual clarity, and strategic research to craft products that are not only beautiful but purposeful.
 
 ## 👀 I’m interested in...
 - Digital product design
@@ -10,17 +10,16 @@ I’m a UX/UI Designer with a passion for creating thoughtful and user-centered 
 - Systems thinking and Design systems
 
 ## 🌱 I’m currently learning...
-- Advanced prototyping with Figma
-- Motion design principles
-- UX writing and microcopy
+- Advanced prototyping with Figma + AI
+- Manage Design Systems
 
 ## 💼 I’m looking for opportunities in...
-- UX/Product Design roles in international teams
+- Product Design roles in international teams to manage and scale Design Systems
 - Projects that blend creativity, technology, and impact
-- Design Systems specialist with AI support
+- Design Systems specialist AI Powered
 
 ## 📫 How to reach me...
-- [www.luispascual.es](https://www.luispascual.es)
+- [Personal porfolio](https://www.luispascual.es)
 - [LinkedIn](https://www.linkedin.com/in/luispascualux)
 - Email: luispascual@icloud.com
 
